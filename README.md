@@ -71,4 +71,3 @@ docker run -it -v ~/Code/plutus-dapp:/home/code/app bjing/plutus-dev-container:l
 ```
 
 [plutus-starter devcontainer on Dockerhub]: https://hub.docker.com/r/inputoutput/plutus-starter-devcontainer
-

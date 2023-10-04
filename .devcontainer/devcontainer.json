@@ -1,5 +1,5 @@
 {
-  "name": "Haskell",
+  "name": "plutus-dev-container",
   "image": "bjing/plutus-dev-container:latest",
   // Configure tool-specific properties.
   "customizations": {

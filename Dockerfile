@@ -46,7 +46,7 @@ RUN git clone https://github.com/input-output-hk/libsodium.git &&\
   && ./autogen.sh && \
   ./configure --prefix=/usr && \
   make && \
-  make install  && cd .. && rm -rf ./libsodium
+  make install  && cd .. 
 
 FROM system_deps as cardano_cli
 
