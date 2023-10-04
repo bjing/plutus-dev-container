@@ -8,7 +8,7 @@ to be able to build Plutus dapps easily.
 
 ## Image Location
 
-The Docker images are hosted on [Dockerhub](https://hub.docker.com/r/bjing/plutus-dev-container/tags)
+The Docker images are hosted on [Dockerhub](https://hub.docker.com/r/bjing/plutus-dev-container)
 
 Images are tagged with their generation date/time.
 For example, the image tag `20231004T215021` represents `2013-10-04 21:50:21`.
